@@ -11,7 +11,7 @@
 
 ***Example Input:***\
 3\
-***Example Output:***
+***Example Output:***\
 42\
 63\
 9\
