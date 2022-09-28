@@ -1,6 +1,6 @@
 # Compound Operators
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Wed 9/28 at 11:59 PM
 
 - Create a program called `CompoundOperators.java`
 - Prompt the user for a whole number
